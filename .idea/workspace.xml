@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="cmsc403a4" targetName="cmsc403a4" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9c802610-d2ec-4989-bae3-eef496400b6a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1RFY2wOZPmj6pZ8lwcAzJL1MUwD" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="cmsc403a4" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cmsc403a4" TARGET_NAME="cmsc403a4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cmsc403a4" RUN_TARGET_NAME="cmsc403a4">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c802610-d2ec-4989-bae3-eef496400b6a" name="Default Changelist" comment="" />
+      <created>1569264107957</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569264107957</updated>
+      <workItem from="1569264112720" duration="5770000" />
+      <workItem from="1569341368813" duration="1064000" />
+      <workItem from="1569420755477" duration="11450000" />
+      <workItem from="1569443822373" duration="819000" />
+      <workItem from="1569456486774" duration="968000" />
+      <workItem from="1569457621290" duration="52000" />
+      <workItem from="1569510032243" duration="62000" />
+      <workItem from="1569512673250" duration="211000" />
+      <workItem from="1569552677826" duration="130000" />
+      <workItem from="1569586542175" duration="206000" />
+      <workItem from="1569588247963" duration="501000" />
+      <workItem from="1569590307075" duration="99000" />
+      <workItem from="1569603042634" duration="2099000" />
+      <workItem from="1569606494617" duration="3432000" />
+      <workItem from="1569610018981" duration="101000" />
+      <workItem from="1569610741171" duration="339000" />
+      <workItem from="1569614052404" duration="115000" />
+      <workItem from="1569856410635" duration="640000" />
+      <workItem from="1570031880249" duration="6000" />
+      <workItem from="1573229257817" duration="25000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
